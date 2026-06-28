@@ -10,8 +10,7 @@ const Services: React.FC = () => {
 
   const internFeatures = ['Official internship letter on company letterhead', 'Authentic & verifiable document', 'Domain-specific learning path', 'Certificate of completion', 'LinkedIn-ready credential', 'Support throughout the internship period'];
 
-  const projectFeatures = ['Complete source code with documentation', 'Working demo & deployment guide', 'PPT presentation included', 'Code explanation session available', 'Plagiarism-free original work', 'Post-delivery support'];
-
+  
   return (
     <div className={`min-h-screen ${isDark ? 'bg-[#0D0D0D] text-white' : 'bg-white text-gray-900'}`}>
       {/* Hero */}

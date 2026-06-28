@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, Code2, FileCheck, Cpu, Mic, Star, ChevronDown, Layers, Users, Award, Zap, Shield, Clock, Headphones } from 'lucide-react';
+import { ArrowRight, Code2, FileCheck, Cpu, Mic, Star, ChevronDown, Layers, Award, Zap, Shield, Clock, Headphones } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext';
 
 // Animated counter hook
